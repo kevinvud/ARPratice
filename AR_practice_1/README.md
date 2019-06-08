@@ -1,0 +1,2 @@
+- Tap "Add" button to display a cube at random location in view
+- Tap "Reset" button to remove all anchors and reset tracking
