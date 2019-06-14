@@ -1,0 +1,3 @@
+- Create a sphere with earth image as diffuse content
+- Rotate the sphere using SCNAction.rotateBy + SCNActionRepeatForever
+- Use runAction to run rotation 
