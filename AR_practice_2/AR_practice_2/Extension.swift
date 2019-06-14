@@ -40,3 +40,10 @@ extension UIView {
         }
     }
 }
+
+extension Int {
+    var degreeToRadian: Double {
+        return Double(self) * .pi / 180
+    }
+    
+}

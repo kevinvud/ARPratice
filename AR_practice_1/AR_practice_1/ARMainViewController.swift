@@ -11,7 +11,6 @@ import UIKit
 import ARKit
 
 class ARMainViewController: UIViewController {
-
     
     let SCNView: ARSCNView = {
         let scn_view = ARSCNView()

@@ -7,29 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		252B862522A63ABA0090443A /* ARMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 252B862422A63ABA0090443A /* ARMainViewController.swift */; };
-		25E7652322A5FCDB007CB82A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E7652222A5FCDB007CB82A /* AppDelegate.swift */; };
-		25E7652522A5FCDB007CB82A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E7652422A5FCDB007CB82A /* SceneDelegate.swift */; };
-		25E7652A22A5FCDB007CB82A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25E7652822A5FCDB007CB82A /* Main.storyboard */; };
-		25E7652C22A5FCDD007CB82A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25E7652B22A5FCDD007CB82A /* Assets.xcassets */; };
-		25E7652F22A5FCDD007CB82A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25E7652D22A5FCDD007CB82A /* LaunchScreen.storyboard */; };
-		25E7653722A5FD3E007CB82A /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E7653622A5FD3E007CB82A /* Extension.swift */; };
+		256CA3DA22B3736000046F1D /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 256CA3D922B3736000046F1D /* Extension.swift */; };
+		25F84A2322AB9B7900C33587 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F84A2222AB9B7900C33587 /* AppDelegate.swift */; };
+		25F84A2522AB9B7900C33587 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F84A2422AB9B7900C33587 /* SceneDelegate.swift */; };
+		25F84A2C22AB9B7C00C33587 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25F84A2B22AB9B7C00C33587 /* Assets.xcassets */; };
+		25F84A2F22AB9B7C00C33587 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25F84A2D22AB9B7C00C33587 /* LaunchScreen.storyboard */; };
+		25F84A3722AB9BB700C33587 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F84A3622AB9BB700C33587 /* MainVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		252B862422A63ABA0090443A /* ARMainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARMainViewController.swift; sourceTree = "<group>"; };
-		25E7651F22A5FCDB007CB82A /* AR_practice_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AR_practice_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		25E7652222A5FCDB007CB82A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		25E7652422A5FCDB007CB82A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		25E7652922A5FCDB007CB82A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		25E7652B22A5FCDD007CB82A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		25E7652E22A5FCDD007CB82A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		25E7653022A5FCDD007CB82A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		25E7653622A5FD3E007CB82A /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Extension.swift; path = ../../AR_practice_2/AR_practice_2/Extension.swift; sourceTree = "<group>"; };
+		256CA3D922B3736000046F1D /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		25F84A1F22AB9B7900C33587 /* AR_practice_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AR_practice_2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		25F84A2222AB9B7900C33587 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		25F84A2422AB9B7900C33587 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		25F84A2B22AB9B7C00C33587 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		25F84A2E22AB9B7C00C33587 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		25F84A3022AB9B7C00C33587 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25F84A3622AB9BB700C33587 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		25E7651C22A5FCDB007CB82A /* Frameworks */ = {
+		25F84A1C22AB9B7900C33587 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		25E7651622A5FCDB007CB82A = {
+		25F84A1622AB9B7900C33587 = {
 			isa = PBXGroup;
 			children = (
-				25E7652122A5FCDB007CB82A /* AR_practice_1 */,
-				25E7652022A5FCDB007CB82A /* Products */,
+				25F84A2122AB9B7900C33587 /* AR_practice_2 */,
+				25F84A2022AB9B7900C33587 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		25E7652022A5FCDB007CB82A /* Products */ = {
+		25F84A2022AB9B7900C33587 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				25E7651F22A5FCDB007CB82A /* AR_practice_1.app */,
+				25F84A1F22AB9B7900C33587 /* AR_practice_2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		25E7652122A5FCDB007CB82A /* AR_practice_1 */ = {
+		25F84A2122AB9B7900C33587 /* AR_practice_2 */ = {
 			isa = PBXGroup;
 			children = (
-				25E7653622A5FD3E007CB82A /* Extension.swift */,
-				25E7652222A5FCDB007CB82A /* AppDelegate.swift */,
-				25E7652422A5FCDB007CB82A /* SceneDelegate.swift */,
-				252B862422A63ABA0090443A /* ARMainViewController.swift */,
-				25E7652822A5FCDB007CB82A /* Main.storyboard */,
-				25E7652B22A5FCDD007CB82A /* Assets.xcassets */,
-				25E7652D22A5FCDD007CB82A /* LaunchScreen.storyboard */,
-				25E7653022A5FCDD007CB82A /* Info.plist */,
+				256CA3D922B3736000046F1D /* Extension.swift */,
+				25F84A2222AB9B7900C33587 /* AppDelegate.swift */,
+				25F84A2422AB9B7900C33587 /* SceneDelegate.swift */,
+				25F84A3622AB9BB700C33587 /* MainVC.swift */,
+				25F84A2B22AB9B7C00C33587 /* Assets.xcassets */,
+				25F84A2D22AB9B7C00C33587 /* LaunchScreen.storyboard */,
+				25F84A3022AB9B7C00C33587 /* Info.plist */,
 			);
-			path = AR_practice_1;
+			path = AR_practice_2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		25E7651E22A5FCDB007CB82A /* AR_practice_1 */ = {
+		25F84A1E22AB9B7900C33587 /* AR_practice_2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 25E7653322A5FCDD007CB82A /* Build configuration list for PBXNativeTarget "AR_practice_1" */;
+			buildConfigurationList = 25F84A3322AB9B7C00C33587 /* Build configuration list for PBXNativeTarget "AR_practice_2" */;
 			buildPhases = (
-				25E7651B22A5FCDB007CB82A /* Sources */,
-				25E7651C22A5FCDB007CB82A /* Frameworks */,
-				25E7651D22A5FCDB007CB82A /* Resources */,
+				25F84A1B22AB9B7900C33587 /* Sources */,
+				25F84A1C22AB9B7900C33587 /* Frameworks */,
+				25F84A1D22AB9B7900C33587 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = AR_practice_1;
-			productName = AR_practice_1;
-			productReference = 25E7651F22A5FCDB007CB82A /* AR_practice_1.app */;
+			name = AR_practice_2;
+			productName = AR_practice_2;
+			productReference = 25F84A1F22AB9B7900C33587 /* AR_practice_2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		25E7651722A5FCDB007CB82A /* Project object */ = {
+		25F84A1722AB9B7900C33587 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = DevOS;
 				TargetAttributes = {
-					25E7651E22A5FCDB007CB82A = {
+					25F84A1E22AB9B7900C33587 = {
 						CreatedOnToolsVersion = 11.0;
 					};
 				};
 			};
-			buildConfigurationList = 25E7651A22A5FCDB007CB82A /* Build configuration list for PBXProject "AR_practice_1" */;
+			buildConfigurationList = 25F84A1A22AB9B7900C33587 /* Build configuration list for PBXProject "AR_practice_2" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +110,47 @@
 				en,
 				Base,
 			);
-			mainGroup = 25E7651622A5FCDB007CB82A;
-			productRefGroup = 25E7652022A5FCDB007CB82A /* Products */;
+			mainGroup = 25F84A1622AB9B7900C33587;
+			productRefGroup = 25F84A2022AB9B7900C33587 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				25E7651E22A5FCDB007CB82A /* AR_practice_1 */,
+				25F84A1E22AB9B7900C33587 /* AR_practice_2 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		25E7651D22A5FCDB007CB82A /* Resources */ = {
+		25F84A1D22AB9B7900C33587 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				25E7652F22A5FCDD007CB82A /* LaunchScreen.storyboard in Resources */,
-				25E7652C22A5FCDD007CB82A /* Assets.xcassets in Resources */,
-				25E7652A22A5FCDB007CB82A /* Main.storyboard in Resources */,
+				25F84A2F22AB9B7C00C33587 /* LaunchScreen.storyboard in Resources */,
+				25F84A2C22AB9B7C00C33587 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		25E7651B22A5FCDB007CB82A /* Sources */ = {
+		25F84A1B22AB9B7900C33587 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				252B862522A63ABA0090443A /* ARMainViewController.swift in Sources */,
-				25E7652322A5FCDB007CB82A /* AppDelegate.swift in Sources */,
-				25E7652522A5FCDB007CB82A /* SceneDelegate.swift in Sources */,
-				25E7653722A5FD3E007CB82A /* Extension.swift in Sources */,
+				25F84A3722AB9BB700C33587 /* MainVC.swift in Sources */,
+				25F84A2322AB9B7900C33587 /* AppDelegate.swift in Sources */,
+				25F84A2522AB9B7900C33587 /* SceneDelegate.swift in Sources */,
+				256CA3DA22B3736000046F1D /* Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		25E7652822A5FCDB007CB82A /* Main.storyboard */ = {
+		25F84A2D22AB9B7C00C33587 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				25E7652922A5FCDB007CB82A /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		25E7652D22A5FCDD007CB82A /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				25E7652E22A5FCDD007CB82A /* Base */,
+				25F84A2E22AB9B7C00C33587 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +158,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		25E7653122A5FCDD007CB82A /* Debug */ = {
+		25F84A3122AB9B7C00C33587 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +218,7 @@
 			};
 			name = Debug;
 		};
-		25E7653222A5FCDD007CB82A /* Release */ = {
+		25F84A3222AB9B7C00C33587 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -284,38 +272,36 @@
 			};
 			name = Release;
 		};
-		25E7653422A5FCDD007CB82A /* Debug */ = {
+		25F84A3422AB9B7C00C33587 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6MD343B76Q;
-				INFOPLIST_FILE = AR_practice_1/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				INFOPLIST_FILE = AR_practice_2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kevinvu.AR-practice-1";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kevinvu.AR-practice-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		25E7653522A5FCDD007CB82A /* Release */ = {
+		25F84A3522AB9B7C00C33587 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6MD343B76Q;
-				INFOPLIST_FILE = AR_practice_1/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				INFOPLIST_FILE = AR_practice_2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kevinvu.AR-practice-1";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kevinvu.AR-practice-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -325,25 +311,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		25E7651A22A5FCDB007CB82A /* Build configuration list for PBXProject "AR_practice_1" */ = {
+		25F84A1A22AB9B7900C33587 /* Build configuration list for PBXProject "AR_practice_2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				25E7653122A5FCDD007CB82A /* Debug */,
-				25E7653222A5FCDD007CB82A /* Release */,
+				25F84A3122AB9B7C00C33587 /* Debug */,
+				25F84A3222AB9B7C00C33587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		25E7653322A5FCDD007CB82A /* Build configuration list for PBXNativeTarget "AR_practice_1" */ = {
+		25F84A3322AB9B7C00C33587 /* Build configuration list for PBXNativeTarget "AR_practice_2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				25E7653422A5FCDD007CB82A /* Debug */,
-				25E7653522A5FCDD007CB82A /* Release */,
+				25F84A3422AB9B7C00C33587 /* Debug */,
+				25F84A3522AB9B7C00C33587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 25E7651722A5FCDB007CB82A /* Project object */;
+	rootObject = 25F84A1722AB9B7900C33587 /* Project object */;
 }
