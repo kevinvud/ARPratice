@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		254DD73F22B6E6C0003C0115 /* AR_Practice_3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AR_Practice_3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		254DD73F22B6E6C0003C0115 /* AR_practice_3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AR_practice_3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		254DD74222B6E6C0003C0115 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		254DD74422B6E6C0003C0115 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		254DD74622B6E6C0003C0115 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		254DD73622B6E6C0003C0115 = {
 			isa = PBXGroup;
 			children = (
-				254DD74122B6E6C0003C0115 /* AR_Practice_3 */,
+				254DD74122B6E6C0003C0115 /* AR_practice_3 */,
 				254DD74022B6E6C0003C0115 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		254DD74022B6E6C0003C0115 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				254DD73F22B6E6C0003C0115 /* AR_Practice_3.app */,
+				254DD73F22B6E6C0003C0115 /* AR_practice_3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		254DD74122B6E6C0003C0115 /* AR_Practice_3 */ = {
+		254DD74122B6E6C0003C0115 /* AR_practice_3 */ = {
 			isa = PBXGroup;
 			children = (
 				254DD75822B6EF4E003C0115 /* Extension.swift */,
@@ -67,15 +67,15 @@
 				254DD74D22B6E6C3003C0115 /* LaunchScreen.storyboard */,
 				254DD75022B6E6C3003C0115 /* Info.plist */,
 			);
-			path = AR_Practice_3;
+			path = AR_practice_3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		254DD73E22B6E6C0003C0115 /* AR_Practice_3 */ = {
+		254DD73E22B6E6C0003C0115 /* AR_practice_3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 254DD75322B6E6C3003C0115 /* Build configuration list for PBXNativeTarget "AR_Practice_3" */;
+			buildConfigurationList = 254DD75322B6E6C3003C0115 /* Build configuration list for PBXNativeTarget "AR_practice_3" */;
 			buildPhases = (
 				254DD73B22B6E6C0003C0115 /* Sources */,
 				254DD73C22B6E6C0003C0115 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = AR_Practice_3;
+			name = AR_practice_3;
 			productName = AR_Practice_3;
-			productReference = 254DD73F22B6E6C0003C0115 /* AR_Practice_3.app */;
+			productReference = 254DD73F22B6E6C0003C0115 /* AR_practice_3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 254DD73A22B6E6C0003C0115 /* Build configuration list for PBXProject "AR_Practice_3" */;
+			buildConfigurationList = 254DD73A22B6E6C0003C0115 /* Build configuration list for PBXProject "AR_practice_3" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				254DD73E22B6E6C0003C0115 /* AR_Practice_3 */,
+				254DD73E22B6E6C0003C0115 /* AR_practice_3 */,
 			);
 		};
 /* End PBXProject section */
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		254DD73A22B6E6C0003C0115 /* Build configuration list for PBXProject "AR_Practice_3" */ = {
+		254DD73A22B6E6C0003C0115 /* Build configuration list for PBXProject "AR_practice_3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				254DD75122B6E6C3003C0115 /* Debug */,
@@ -332,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		254DD75322B6E6C3003C0115 /* Build configuration list for PBXNativeTarget "AR_Practice_3" */ = {
+		254DD75322B6E6C3003C0115 /* Build configuration list for PBXNativeTarget "AR_practice_3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				254DD75422B6E6C3003C0115 /* Debug */,
