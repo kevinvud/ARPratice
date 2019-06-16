@@ -1,6 +1,6 @@
 //
 //  Extension.swift
-//  AR_practice_2
+//  AR_practice_1
 //
 //  Created by DevOS on 6/16/19.
 //  Copyright © 2019 DevOS. All rights reserved.
@@ -39,11 +39,4 @@ extension UIView {
             heightAnchor.constraint(equalToConstant: height).isActive = true
         }
     }
-}
-
-extension Int {
-    var degreeToRadian: Double {
-        return Double(self) * .pi / 180
-    }
-    
 }
